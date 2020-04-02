@@ -7,8 +7,8 @@ subheading: Niche marketing efforts for software engineering tools
 mainpitch:
   title: Why Padarekha?
   description: >
-    Be warned! The contents on this page change very frequently. I use this sace for my tech experiments. 
-    Currently using it for a Netlify/Gatsby project. Last known use was for a website running using Contentful. 
+    Be warned! The contents on this page change very frequently. I use this space for my tech experiments. 
+    Currently using it for a Netlify/Gatsby project. Last known use was for a website running using Contentful, testing Zeit, and some other cool new playthings. 
     Upcoming project: A GraphQL backend, courtesy Hasura. 
     Stay tuned! 
 description: >-
