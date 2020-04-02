@@ -7,10 +7,10 @@ subheading: Niche marketing efforts for software engineering tools
 mainpitch:
   title: Why Padarekha?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Be warned! The contents on this page change very frequently. I use this sace for my tech experiments. 
+    Currently using it for a Netlify/Gatsby project. Last known use was for a website running using Contentful. 
+    Upcoming project: A GraphQL backend, courtesy Hasura. 
+    Stay tuned! 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
